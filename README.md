@@ -8,7 +8,6 @@ The analysis aims to provide insights that can help in decision-making for busin
 
 Features
 
-1. Data Exploration: Initial exploration of the 'diamonds' dataset from the seaborn library.
-2. One-Way ANOVA: Analysis to determine how much the color of diamonds affects their price.
-3. Two-Way ANOVA: Investigation of the interaction effects between color and cut on diamond prices.
-4. Post-hoc Analysis: Utilizing Tukey HSD to understand specific group differences.
+- Data Exploration: Initial exploration of the 'diamonds' dataset from the seaborn library.
+- Two-Way ANOVA: Investigation of the interaction effects between color and cut on diamond prices.
+- Post-hoc Analysis: Utilizing Tukey HSD to understand specific group differences.
